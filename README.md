@@ -9,6 +9,7 @@ Script Brute Force Account Instagram (64bit)
  $ pkg install git
  $ python -m pip install requests
  $ python -m pip install futures
+ $ python -m pip install pyzipper
  $ git clone https://github.com/RozhBasXYZ/INSTAROZ
  $ cd INSTAROZ
  $ git pull
