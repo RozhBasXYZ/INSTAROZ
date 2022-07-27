@@ -1,5 +1,5 @@
 # SCRIPT CRACKING INSTAGRAM❗
-Script Brute Force Account Instagram
+Script Brute Force Account Instagram (64bit)
 
 #### Install Script Di Termux
  Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
