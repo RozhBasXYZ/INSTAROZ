@@ -26,9 +26,7 @@ Script Brute Force Account Instagram
   $ chmod 777 run(sesuai bit)
   $ ./run(sesuai bit)
  ```
-#### Jika Script Error Silahkan Di Update
+#### Jika Sudah Install Script Run Dengan Ini
  ```
-  $ cd $HOME
-  $ cd INSTAROZ
-  $ chmod 777 run(sesuai bit)
+  $ cd $HOME/INSTAROZ
   $ ./run(sesuai bit)
