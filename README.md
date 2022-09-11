@@ -21,8 +21,7 @@ Script Brute Force Account Instagram
   $ cd $HOME
   $ rm -rf INSTAROZ
   $ git clone https://github.com/RozhBasXYZ/INSTAROZ
-  $ cd BOTIG
-  $ git pull
+  $ cd INSTAROZ
   $ chmod 777 run(sesuai bit)
   $ ./run(sesuai bit)
  ```
