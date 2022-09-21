@@ -10,6 +10,8 @@ Script Brute Force Account Instagram
  $ pip install requests
  $ pip install futures
  $ pip install pyzipper
+ $ pip install rich
+ $ pip install bs4
  $ termux-setup-storage ( y / izinkan )
  $ git clone https://github.com/RozhBasXYZ/INSTAROZ
  $ cd INSTAROZ
