@@ -1,6 +1,8 @@
-# SCRIPT CRACKING INSTAGRAM❗
-Script Brute Force Account Instagram
-
+# SCRIPT BRUTE FORCE INSTAGRAM
+```
+⚠️ ini adalah script ilegal, segala kerugian diluar tanggung jawab author.
+```
+![images](https://user-images.githubusercontent.com/99103722/194051502-95d438d7-bff5-4b30-8ee6-66da1638acfa.jpeg)
 #### Install Script Di Termux
  Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
