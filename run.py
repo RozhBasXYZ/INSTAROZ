@@ -1,1 +1,2 @@
-import("makedirectory").makedirectory()
+from instarozh import makedirectory as run
+run()
