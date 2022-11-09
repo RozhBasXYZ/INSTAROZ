@@ -1,7 +1,8 @@
 import os
-from data.instarozh import makedirectory as main
-from data.instarozh32 import makedirectory as main2
 
-
-try: main()
-except: main2()
+try:
+   from data.instarozh import makedirectory as main
+   main()
+except:
+   from data.instarozh32 import makedirectory as main2
+   main2()
