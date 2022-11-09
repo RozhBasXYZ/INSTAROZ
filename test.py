@@ -1,3 +1,3 @@
 import os
-from babas import makedirectory as main
+from instarozh import makedirectory as main
 main()
