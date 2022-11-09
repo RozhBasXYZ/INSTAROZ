@@ -17,9 +17,7 @@
  $ termux-setup-storage ( y / izinkan )
  $ git clone https://github.com/RozhBasXYZ/INSTAROZ
  $ cd INSTAROZ
- $ git pull
- $ chmod 777 run(sesuai bit)
- $ ./run(sesuai bit)
+ $ python run.py
  ```
 #### Cara Untuk Update
  ```
@@ -27,8 +25,8 @@
   $ rm -rf INSTAROZ
   $ git clone https://github.com/RozhBasXYZ/INSTAROZ
   $ cd INSTAROZ
-  $ chmod 777 run(sesuai bit)
-  $ ./run(sesuai bit)
+  $ git pull
+  $ python run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
