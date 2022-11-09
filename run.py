@@ -1,5 +1,5 @@
 import os
 from data.babas import makedirectory as run64
 
-try: run64()
-except: run32()
+run64()
+
