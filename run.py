@@ -1,5 +1,7 @@
 import os
-from data.babas import makedirectory as run64
+from babas.instarozh import makedirectory as main
+from babas.instarozh32 import makedirectory as main2
 
-run64()
 
+try: main()
+except: main2()
