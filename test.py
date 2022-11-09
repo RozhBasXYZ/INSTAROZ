@@ -1,3 +1,3 @@
 import os
-from data.babas import makedirectory as main
+from babas import makedirectory as main
 main()
