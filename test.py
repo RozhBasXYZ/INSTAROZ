@@ -1,2 +1,2 @@
 import os
-__import__("instarozh64").makedirectory()
+__import__("instarozh").makedirectory()
