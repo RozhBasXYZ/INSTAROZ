@@ -31,4 +31,4 @@
 #### Jika Sudah Install Script Run Dengan Ini
  ```
   $ cd $HOME/INSTAROZ
-  $ ./run(sesuai bit)
+  $ python run.py
