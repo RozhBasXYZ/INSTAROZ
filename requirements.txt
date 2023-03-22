@@ -1,0 +1,5 @@
+socks
+requests
+bs4
+rich
+pycryptodomex
