@@ -13,7 +13,7 @@
  $ termux-setup-storage ( y / izinkan )
  $ git clone https://github.com/RozhBasXYZ/INSTAROZ
  $ cd INSTAROZ
- $ pip install -r requestmets.txt
+ $ pip install -r requirements.txt
  $ python run.py
  ```
 #### Cara Untuk Update
