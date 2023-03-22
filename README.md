@@ -9,14 +9,12 @@
  $ pkg update && pkg upgrade
  $ pkg install python
  $ pkg install git
- $ pip install requests
- $ pip install futures
- $ pip install pyzipper
- $ pip install rich
- $ pip install bs4
+ & pkg update -y && pkg install libsodium
+ $ SODIUM_INSTALL=system pip install pynacl
  $ termux-setup-storage ( y / izinkan )
  $ git clone https://github.com/RozhBasXYZ/INSTAROZ
  $ cd INSTAROZ
+ $ pip install -r requestmets.txt
  $ python run.py
  ```
 #### Cara Untuk Update
