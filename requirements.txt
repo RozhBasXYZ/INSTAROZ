@@ -1,5 +1,7 @@
-socks
+rich
+cython
+pysocks
 requests
 bs4
-rich
 pycryptodomex
+pynacl
