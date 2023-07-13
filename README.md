@@ -10,19 +10,21 @@
  $ pkg upgrade -y
  $ pkg install python git play-audio libsodium openssl
  $ SODIUM_INSTALL=system pip install pynacl
- $ termux-setup-storage ( y / izinkan )
+ $ termux-setup-storage
  $ git clone https://github.com/RozhBasXYZ/INSTAROZ
  $ cd INSTAROZ
  $ pip install -r requirements.txt
+ $ python build.py
  $ python run.py
  ```
 #### Cara Untuk Update
  ```
-  $ cd $HOME/INSTAROZ
-  $ git pull
-  $ python run.py
+ $ cd $HOME/INSTAROZ
+ $ git pull
+ $ python build.py
+ $ python run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
-  $ cd $HOME/INSTAROZ
-  $ python run.py
+ $ cd $HOME/INSTAROZ
+ $ python run.py
