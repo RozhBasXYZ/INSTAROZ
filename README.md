@@ -31,3 +31,6 @@ sudah diluar tanggung jawab author.
  ```
  $ cd $HOME/INSTAROZ
  $ python run.py
+```
+#### Pratinjau Tampilan 
+![images](https://i.postimg.cc/3N1CNMGb/20231025-075658.jpg)
