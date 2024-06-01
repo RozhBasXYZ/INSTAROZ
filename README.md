@@ -9,28 +9,19 @@ sudah diluar tanggung jawab author.
 #### Install Script Di Termux
  Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
- $ pkg update -y
- $ pkg upgrade -y
- $ pkg install python git play-audio libsodium openssl
- $ SODIUM_INSTALL=system pip install pynacl
- $ termux-setup-storage
- $ git clone https://github.com/RozhBasXYZ/INSTAROZ
- $ cd INSTAROZ
- $ pip install -r requirements.txt
- $ python build.py
- $ python run.py
+ bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/RozhBasXYZ/INSTAROZ/main/install.sh)"
  ```
 #### Cara Untuk Update
  ```
  $ cd $HOME/INSTAROZ
  $ git pull
- $ python build.py
- $ python run.py
+ $ python3.10 build.py
+ $ python3.10 run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
  $ cd $HOME/INSTAROZ
- $ python run.py
+ $ python3.10 run.py
 ```
 #### Pratinjau Tampilan 
 ![images](https://i.postimg.cc/3N1CNMGb/20231025-075658.jpg)
