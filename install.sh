@@ -16,5 +16,7 @@ cd INSTAROZ && python3.10 -m pip install --upgrade pip && python3.10 -m pip inst
 find data/ -name '*.md' -delete
 echo -e "\n sedang melakukan build.py"
 python3.10 build.py
-echo -e "\n build sukses, sedang menjalankan script"
+echo -e "\n build sukses, berikan izin storage ( y / izinkan )"
+termux-setup-storage
+echo -e "\n sukses memberikan izin, sc segera siap..."
 python3.10 run.py
