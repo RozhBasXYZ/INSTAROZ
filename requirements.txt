@@ -6,3 +6,4 @@ bs4
 pycryptodomex
 pynacl
 pyotp
+pynacl
