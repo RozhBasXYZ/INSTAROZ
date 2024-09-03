@@ -19,4 +19,5 @@ python3.10 build.py
 echo -e "\n build sukses, berikan izin storage ( y / izinkan )"
 termux-setup-storage
 echo -e "\n sukses memberikan izin, sc segera siap..."
+cd /sdcard && mkdir STAROZ 
 python3.10 run.py
